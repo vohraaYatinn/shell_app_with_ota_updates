@@ -1,0 +1,14 @@
+{
+  "appId": "com.optivalhrmsandroid.app",
+  "appName": "optivalhrms-android",
+  "webDir": "./dist",
+  "server": {
+    "androidScheme": "http"
+
+  },
+  "plugins": {
+		"CapacitorUpdater": {
+			"autoUpdate": false
+		}
+	}
+}
